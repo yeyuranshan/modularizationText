@@ -7,7 +7,6 @@
 //
 
 #import "PayNetWork.h"
-#import "AFHTTPSessionManager.h"
 
 @implementation PayNetWork
 
