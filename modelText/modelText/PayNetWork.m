@@ -21,7 +21,7 @@
 
 + (void)weixinPay:(void (^)(void))success failure:(void (^)(NSError *error))failure{
     
-    NSlog(@"hello world");
+   NSLog(@"leoolldd");
     
 }
 
